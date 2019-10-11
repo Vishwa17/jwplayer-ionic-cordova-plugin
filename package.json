@@ -9,6 +9,20 @@
       "ios"
     ]
   },
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova-android": ">=6.3.0"
+      },
+      "4.1.0": {
+        "cordova-android": ">=6.3.0",
+        "cordova": ">=7.1.0"
+      },
+      "5.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Vishwa17/jwplayer-ionic-cordova-plugin.git"
@@ -16,8 +30,14 @@
   "keywords": [
     "ecosystem:cordova",
     "cordova-android",
-    "cordova-ios"
+    "cordova-ios",
+    "videoplayer",
+    "jwlplayer",
+    "jwplayer-cordova",
+    "video",
+    "player"
   ],
   "author": "Vishwa Deepak Singh",
   "license": "ISC"
+
 }
