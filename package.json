@@ -1,6 +1,6 @@
 {
   "name": "cordova.plugin.jwplayerionicplugin",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "JWPlayer cordova plugin for Android & iOS",
   "cordova": {
     "id": "cordova.plugin.jwplayerionicplugin",
@@ -8,6 +8,10 @@
       "android",
       "ios"
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishwa17/jwplayer-ionic-cordova-plugin.git"
   },
   "keywords": [
     "ecosystem:cordova",
