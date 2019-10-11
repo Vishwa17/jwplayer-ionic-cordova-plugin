@@ -1,0 +1,19 @@
+{
+  "name": "cordova.plugin.jwplayerionicplugin",
+  "version": "1.0.0",
+  "description": "JWPlayer cordova plugin for Android & iOS",
+  "cordova": {
+    "id": "cordova.plugin.jwplayerionicplugin",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Vishwa Deepak Singh",
+  "license": "ISC"
+}
